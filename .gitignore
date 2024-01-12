@@ -161,3 +161,8 @@ cython_debug/
 
 **/.DS_Store
 launch.sh
+
+beats_path/
+ckpt_path
+whisper_path
+vicuna_path/
